@@ -8,31 +8,6 @@ const initialState = {
   message: "",
 };
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
-
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    setState((prevState) => ({ ...prevState, [name]: value }));
-  };
-  const clearState = () => setState({ ...initialState });
-
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    console.log(name, email, message);
-
-    emailjs
-      .sendForm("service_8ds8cr7", "template_kzryjus", e.target, "infIbXvrBrP9CTbV_")
-      .then(
-        (result) => {
-          console.log(result.text);
-          clearState();
-        },
-        (error) => {
-          console.log(error.text);
-        }
-      );
-  };
   return (
     <div>
       <div id="contact">
