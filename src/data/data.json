@@ -73,6 +73,16 @@
       "name": "Papadam",
       "image": "img/papad.jpeg",
       "link": "papadam"
+    },
+    {
+      "name": "Construction Material",
+      "image": "img/construction.png",
+      "link": "constructionMaterial"
+    },
+    {
+      "name": "Cosmetic Products",
+      "image": "img/cosmetics.png",
+      "link": "cosmetics"
     }
   ],
   "Contact": {
@@ -100,57 +110,67 @@
   ],
   "honey": {
     "name": "Golden Harvest Honey",
-    "image": "img/honey.png",
-    "description": "<p>Our <b> Golden Harvest Honey </b> is the epitome of purity and quality, harvested from the pristine foothills of the <b>Western Ghats</b>. With over 1000 bee colonies contributing to our impressive production capacity of 10 to 15 tons annually, our honey is a true testament to nature's bounty. For bulk orders, <b>we offer reliable supply through 40kg Jerry Cans</b>, while our bottled packaging options, including <b>plastic bottles and glass jars</b>, cater to the needs of retailers. Our honey is Clean & Chemical Free, Pure & Healthy, and Safety Assured, with absolutely No Sugar Adulteration. Choose Orkit Honey for a taste of unadulterated sweetness straight from the heart of nature.</p>"
+    "image": "img/honeyBanner.png",
+    "description": "<p>Indulge in the pure essence of nature with our globally exported <b>Golden Harvest Honey</b>, sourced meticulously from the <b>native Apis Cerana Indica bees</b> of India. Our honey embodies the rich biodiversity of the <b>Sahyadri foothills</b>, specifically harvested from the serene locales of <b>Nettana</b>, <b>Sunkadakatte</b>, <b>Mardala</b>, <b>Ichlampady</b>, and <b>Nellyadi</b>. Timely harvested during early to <b>late January or early to late May</b>, our production ensures optimal quality influenced by the climate. With a <b>production capacity averaging around 10,000 kilograms per season</b>, our honey varieties, includes <b>Forest, Areca, Rubber, or a delightful blend of all</b>, Every drop is meticulously gathered only after the bees have <b>sealed the comb</b>, ensuring purity and authenticity in every jar.</p>"
   },
   "jaggery": {
     "name": "Golden Harvest Jaggery",
-    "image": "img/honey.png",
+    "image": "img/jaggeryBanner.png",
     "description": "<p>Indulge in the authentic sweetness of our <b>Golden Harvest Jaggery</b>, a beloved local treasure now <b> available for export worldwide</b>. Sourced from the lush sugarcane fields, our jaggery comes in <b>two organic varieties</b> : the <b>robust Black</b> and the <b>rich Brown</b>. For those seeking a touch of tradition, we offer both <b>cube</b> and <b>powder</b> forms, meticulously crafted to preserve its natural essence. Additionally, experience the unique flavor of our <b>non-organic Kesari-colored</b> jaggery, capturing the essence of purity in every bite. Elevate your culinary creations with our premium jaggery selection, straight from nature's bounty.</p>"
   },
   "dryCoconut": {
     "name": "Golden Harvest Dry Coconut",
-    "image": "img/honey.png",
+    "image": "img/dryCoconutBanner.png",
     "description": "<p>Our exported <b>Golden Harvest dry coconut</b> boasts an average weight ranging from <b>1 to 1.3 kilograms</b>, ensuring ample quantity for various culinary and industrial applications. With a <b>diameter measuring approximately 22mm</b>, each coconut promises a generous yield of rich, flavorful flesh and versatile coconut byproducts. Sourced from meticulously selected palms, our product epitomizes quality, consistency, and the natural bounty of tropical regions, offering a taste of exotic freshness to discerning consumers worldwide.</p>"
   },
   "nariyal": {
     "name": "Golden Harvest Nariyal",
-    "image": "img/honey.png",
+    "image": "img/nariyalBanner.png",
     "description": "<p>Introducing our locally sourced <b>Golden Harvest Nariyal (Coconuts)</b>, each weighing approximately <b>450gm to 500gm</b>, perfect for a variety of culinary uses and natural remedies. Grown in the lush tropical regions, our coconuts boast exceptional <b>freshness</b> and <b>flavor</b>. We take pride in carefully selecting and packaging them in convenient <b>25-piece bags</b>, ideal for both domestic and international markets. Whether you're a chef looking for premium ingredients or seeking the health benefits of this versatile fruit, our coconuts promise uncompromised quality straight from our farms to your table.</p>"
   },
   "onionPotato": {
     "name": "Golden Harvest Onion and Potato",
-    "image": "img/honey.png",
+    "image": "img/onionPotatoBanner.png",
     "description": "<p>Our globally exported <b>Golden Harvest Onions and Potatoes</b> represent the pinnacle of freshness and quality. Harvested with care, our potatoes arrive <b>unwashed</b> to preserve their natural flavor and integrity, boasting a size of around <b>40mm</b> each. These potatoes are perfect for a myriad of culinary creations. Our onions, on the other hand, are meticulously <b>dried to perfection</b>, maintaining their robust flavor and texture. With a size of approximately <b>40mm with double patti</b>, our onions are ideal for adding depth and aroma to dishes worldwide.</p>"
   },
   "fruits": {
     "name": "Golden Harvest Fruits",
-    "image": "img/honey.png",
+    "image": "img/fruitsBanner.png",
     "description": "<p>Our globally exported mix of <b>Gloden Harvest Fruits</b> offers a delightful blend of flavors and nutrients, embodying the essence of diverse tropical regions. From the sweet and creamy <b>chikus</b> to the universally beloved <b>bananas</b>, <b>grapes</b> each fruit adds its unique touch to the medley. When in season, juicy <b>papayas</b>, refreshing <b>watermelons</b>, and tangy <b>pineapples</b> join the ensemble, creating a symphony of taste and vitality. However, as the availability of these fruits fluctuates with the changing seasons, it's always wise to <b>enquire about their current availability</b> to savor the freshest produce nature has to offer.</p>"
   },
   "vegetables": {
     "name": "Golden Harvest Vegetables",
-    "image": "img/honey.png",
+    "image": "img/vegetablesBanner.png",
     "description": "<p>Discover the essence of seasonal freshness with our premium <b>Golden Harvest Vegetable</b> exports. we offer a <b>diverse range</b> of produce meticulously sourced to match nature's rhythms. Our commitment to quality ensures that each vegetable is harvested at its peak, delivering exceptional flavor and nutritional value to discerning markets worldwide. <b>Enquire now to explore the availability</b> of our seasonal delights and elevate your culinary experience with the finest produce nature has to offer.</p>"
   },
   "spices": {
     "name": "Golden Harvest Spices",
-    "image": "img/honey.png",
+    "image": "img/spicesBanner.png",
     "description": "<p>We takes pride in exporting a diverse range of <b>Golden Harvest Spices</b> globally. From the fragrant essence of <b>cloves (laung)</b> to the delicate allure of <b>cardamom (Elichi)</b>, our offerings span a spectrum of tastes and cultures. We supply the warm, earthy tones of <b>cinnamon (Dalchini)</b>. Embracing both tradition and health, our <b>turmeric (Haldi)</b> comes in both <b>powder</b> and <b>root</b> forms. Moreover, we provide two varieties of <b>red chilies: the Byadgi Mirchi</b>, renowned for its deep red hue and mild heat, and the <b>Guntur Karam</b>, prized for its fiery intensity, catering to every palate and preference. With our commitment to quality and authenticity.</p>"
   },
   "maize": {
     "name": "Maize",
-    "image": "img/honey.png",
+    "image": "img/maizeBanner.png",
     "description": "<p>we export high-quality <b>Golden Harvest maize</b> of three distinct <b>varieties: yellow, red, and white</b>. Renowned for their versatility and nutritional value, our maize grains cater to diverse culinary preferences and dietary needs worldwide. The vibrant yellow kernels offer a sweet, buttery flavor, perfect for classic corn dishes and snacks. Meanwhile, the rich red maize provides a unique twist with its slightly nutty taste, adding depth to a range of recipes. Lastly, our white maize boasts a delicate, mild flavor, ideal for traditional dishes and specialty products, we ensure that each variety of maize we export meets the highest standards, delighting consumers across the globe.</p>"
   },
   "rice": {
     "name": "Rice",
-    "image": "img/honey.png",
+    "image": "img/riceBanner.png",
     "description": "<p>Our company exports a diverse range of premium <b>Rice</b> varieties globally, including the aromatic <b>Basmati rice</b>, prized for its long grains measuring <b>6-8mm</b>, renowned for its exquisite fragrance and delicate flavor. Additionally, we offer the popular <b>Sona Masuri rice</b>, known for its slender grains and exceptional cooking qualities. For those seeking versatility, our <b>Jeera rice</b>, with grains ranging from <b>5 to 5.2mm</b> size. Moreover, our <b>broken rice</b>, despite its smaller size, maintains <b>first-quality standards</b>, ensuring satisfaction in every meal. With our commitment to excellence, we provide superior rice options to meet the diverse needs of consumers worldwide.</p>"
   },
   "papadam": {
     "name": "Papadam",
-    "image": "img/honey.png",
+    "image": "img/papadBanner.png",
     "description": "<p>Our company specializes in exporting <b>Papadam (Papad)</b>, offering a tantalizing array of flavors to suit every palate. From the classic <b>Onion Papad available in both plain and masala</b> variants to the aromatic <b>Garlic Papad</b>, offered in <b>Plain or masala-infused</b> options, we cater to diverse tastes. Additionally, our range includes the <b>crispy Potato Papad</b>, tantalizingly seasoned with <b>plain, masala, or a fiery red chili</b> kick. For those craving a spicy twist, our <b>Chilli Garlic Papad</b> delivers a harmonious blend of heat and garlic goodness, available in both <b>spicy and plain</b> variations. Furthermore, our <b>Sabudana Papad</b>, available in <b>plain or jeera (cumin)</b> flavors, offers a delightful crunch with every bite.</p>"
+  },
+  "constructionMaterial": {
+    "name": "Construction Material",
+    "image": "img/constructionBanner.png",
+    "description": "<p>Discover the epitome of construction excellence with our <b>premium construction materials</b>. Our versatile <b>cement</b> serves as the foundation for <b>concrete, plaster, and mortar</b>, ensuring enduring strength and stability in every structure. We export <b>Super Cement</b>, <b>Suraksha</b>,<b>Concrete + OPC</b>, <b>OakLand</b>, <b>Pergola Cement</b>, <b>Meghna jang rodhak</b>. Meticulously sourced from pristine riverbeds, our <b>original river sand</b> enhances concrete workability and strength, serves as the foundation for <b>concrete, plaster, and mortar</b>. elevating the quality of your projects. Reinforce your buildings with our meticulously engineered <b>steel bars</b>, <b>M. S Stell Bars</b> ranging from <b>6mm to 20mm</b>, and <b>40ft</b> in length. providing unmatched durability against the elements. From foundations to skyscrapers, our construction materials embody innovation, reliability, and a commitment to lasting quality.</p>"
+  },
+  "cosmetics": {
+    "name": "Cosmetic Products",
+    "image": "img/cosmeticsBanner.png",
+    "description": "<p>Embark on a journey of beauty and sophistication with our exquisite range of <b>cosmetics products</b>, meticulously crafted to enhance your natural allure. Our <b>makeup brushes</b>, effortlessly blend textures for flawless finishes. Immerse yourself in a spectrum of hues with our <b>vibrant nail polishes and lipsticks</b>. Shield your skin from the sun's rays with our nourishing <b>sunscreens</b>. Achieve a luminous complexion with our velvety <b>powders and foundations</b>, tailored to your unique skin tone. Elevate your beauty routine with our curated <b>makeup sets</b>, offering a harmonious blend of essentials for effortless elegance. With our cosmetics collection, embrace your individuality and radiate confidence with every application.</p>"
   }
 }

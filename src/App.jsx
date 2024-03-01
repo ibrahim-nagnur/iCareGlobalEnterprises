@@ -47,6 +47,8 @@ const App = () => {
           <Route path="/maize" element={<ProductPage data={landingPageData.maize} footer={landingPageData.Contact} />} />
           <Route path="/rice" element={<ProductPage data={landingPageData.rice} footer={landingPageData.Contact} />} />
           <Route path="/papadam" element={<ProductPage data={landingPageData.papadam} footer={landingPageData.Contact} />} />
+          <Route path="/constructionMaterial" element={<ProductPage data={landingPageData.constructionMaterial} footer={landingPageData.Contact} />} />
+          <Route path="/cosmetics" element={<ProductPage data={landingPageData.cosmetics} footer={landingPageData.Contact} />} />
         </Routes>
       </div>
     </Router>

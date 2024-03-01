@@ -4,7 +4,7 @@ import WhatsApp from 'react-whatsapp';
 import { Contact } from "./contact";
 
 export const ProductPage = (props) => {
-    console.log(props.data);
+    console.log(props);
     return (
         <div>
             {props.data ? <div id="productsPage" className="text-center">
@@ -24,7 +24,7 @@ export const ProductPage = (props) => {
                 <p className="enquireText">Enquire now on </p>
                 <WhatsApp className="whatsAppButton" number="+917996124324" message={`I want to enquire about ${props.data?.name}`}><i className="fa fa-whatsapp"></i> WhatsApp</WhatsApp>
             </div>
-            {props.footer ? <Contact data={props.footer.Contact} /> : "Loading.."}
+            {props.footer ? <Contact data={props.footer} /> : "Loading.."}
         </div>
     );
 };

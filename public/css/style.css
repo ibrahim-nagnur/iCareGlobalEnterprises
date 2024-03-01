@@ -789,6 +789,12 @@ label {
   }
 }
 
+@media (max-width: 520px) {
+  .productBannerContainer {
+    height: 40vh;
+}
+}
+
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
