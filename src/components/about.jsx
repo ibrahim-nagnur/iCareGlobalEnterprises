@@ -1,5 +1,7 @@
 import React from "react";
 import parse from 'html-react-parser';
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { Carousel } from 'react-responsive-carousel';
 
 export const About = (props) => {
   return (
@@ -7,34 +9,28 @@ export const About = (props) => {
       <div className="container">
         <div className="row">
           <div className="col-xs-12 col-md-6">
-            {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
+            <Carousel>
+              <div>
+                <img className="img-responsive" src="img/about.jpg" alt="i care global enterprises" />
+              </div>
+              <div>
+                <img className="img-responsive" src="img/about1.jpg" alt="i care global enterprises" />
+              </div>
+              <div>
+                <img className="img-responsive" src="img/about2.jpg" alt="i care global enterprises" />
+              </div>
+              <div>
+                <img className="img-responsive" src="img/about3.jpg" alt="i care global enterprises" />
+              </div>
+              <div>
+                <img className="img-responsive" src="img/about4.jpg" alt="i care global enterprises" />
+              </div>
+            </Carousel>
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>About Us</h2>
               {props.data ? parse(props.data.paragraph) : "loading..."}
-              {/* <h3>Why Choose Us?</h3>
-              <div className="list-style">
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-              </div> */}
             </div>
           </div>
         </div>
